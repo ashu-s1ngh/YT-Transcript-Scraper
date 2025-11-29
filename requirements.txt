@@ -1,0 +1,6 @@
+yt-dlp
+scrapetube
+customtkinter
+packaging
+pillow
+pyinstaller
